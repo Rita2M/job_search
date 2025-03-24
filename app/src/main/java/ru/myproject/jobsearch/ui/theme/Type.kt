@@ -16,47 +16,47 @@ val SFProDisplay = FontFamily(
 
 // Определение стилей типографики
 val Typography = Typography(
-    titleLarge = TextStyle(
+    titleLarge = TextStyle( //title 1
         fontFamily = SFProDisplay,
         fontWeight = FontWeight.SemiBold,
         fontSize = 22.sp
     ),
-    titleMedium = TextStyle(
+    titleMedium = TextStyle( //title 2
         fontFamily = SFProDisplay,
         fontWeight = FontWeight.SemiBold,
         fontSize = 20.sp
     ),
-    titleSmall = TextStyle(
+    titleSmall = TextStyle( //Title 3
         fontFamily = SFProDisplay,
         fontWeight = FontWeight.Medium,
         fontSize = 16.sp
     ),
-    headlineSmall = TextStyle(
+    headlineSmall = TextStyle( //Title 4
         fontFamily = SFProDisplay,
         fontWeight = FontWeight.Medium,
         fontSize = 14.sp
     ),
-    bodyLarge = TextStyle(
+    bodyLarge = TextStyle(  //Button text 2
         fontFamily = SFProDisplay,
         fontWeight = FontWeight.Normal,
         fontSize = 14.sp
     ),
-    labelLarge = TextStyle(
+    labelLarge = TextStyle( //Button text 1
         fontFamily = SFProDisplay,
         fontWeight = FontWeight.SemiBold,
         fontSize = 16.sp
     ),
-    labelMedium = TextStyle(
+    labelMedium = TextStyle( //Text 1
         fontFamily = SFProDisplay,
         fontWeight = FontWeight.Normal,
         fontSize = 14.sp
     ),
-    labelSmall = TextStyle(
+    labelSmall = TextStyle( //Tab text
         fontFamily = SFProDisplay,
         fontWeight = FontWeight.Normal,
         fontSize = 10.sp
     ),
-    bodySmall = TextStyle(
+    bodySmall = TextStyle( //Number
         fontFamily = SFProDisplay,
         fontWeight = FontWeight.Normal,
         fontSize = 7.sp

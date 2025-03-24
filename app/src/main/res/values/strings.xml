@@ -5,4 +5,5 @@
     <string name="title_responses">Responses</string>
     <string name="title_messages">Messages</string>
     <string name="title_profile">Profile</string>
+    <string name="input_prompt">Position, keywords</string>
 </resources>

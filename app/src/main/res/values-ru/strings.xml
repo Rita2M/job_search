@@ -7,5 +7,6 @@
     <string name="title_responses">Отклики</string>
     <string name="title_messages">Сообщения</string>
     <string name="title_profile">Профиль</string>
+    <string name="input_prompt">Должность, ключевые слова</string>
 
 </resources>

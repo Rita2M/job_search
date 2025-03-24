@@ -21,5 +21,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "job search"
 include(":app")
+include(":presentation")
 include(":data")
 include(":domain")
